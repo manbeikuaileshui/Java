@@ -1,0 +1,12 @@
+package 抽象类6.抽象类的特点2;
+/*
+    抽象类
+ */
+public abstract class Animal {
+    //抽象方法
+    public abstract void eat();
+
+    public void sleep() {
+        System.out.println("睡觉");
+    }
+}
