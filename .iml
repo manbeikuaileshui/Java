@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1.HelloWorld" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.考试奖励" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11.switch语句" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12.while循环" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13.Random" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.常量" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/23.修饰符" isTestSource="false" packagePrefix="com.itheima" />
+      <sourceFolder url="file://$MODULE_DIR$/3.变量" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.变量使用的注意事项" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.自动类型转换" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6.字符串的“+”操作" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.数据输入" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8.三个和尚" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9.奇偶数" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
